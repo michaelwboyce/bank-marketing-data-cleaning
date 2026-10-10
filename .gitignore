@@ -1,0 +1,17 @@
+# DataCamp-provided source data and generated outputs
+bank_marketing.csv
+client.csv
+campaign.csv
+economics.csv
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Notebook and editor files
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
